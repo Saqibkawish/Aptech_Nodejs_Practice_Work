@@ -1,4 +1,4 @@
-
+// npm i bcryptjs 
 let bcrypt = require('bcryptjs');
 
 let my_password = "killerunknown"
